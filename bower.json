@@ -1,0 +1,22 @@
+{
+  "name": "summernote-ext-sanitize",
+  "authors": [
+    "Park Hyunwoo <ez@smartstudy.co.kr>"
+  ],
+  "description": "Sanitizer plugin for Summernote",
+  "main": "summernote-ext-sanitize.js",
+  "moduleType": [],
+  "keywords": [
+    "summernote",
+    "sanitize"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/lqez/summernote-ext-sanitize",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
